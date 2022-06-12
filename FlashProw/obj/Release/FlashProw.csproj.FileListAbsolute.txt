@@ -1,0 +1,12 @@
+C:\Users\temit\source\repos\FlashProw\FlashProw\bin\Release\FlashProw.exe.config
+C:\Users\temit\source\repos\FlashProw\FlashProw\bin\Release\FlashProw.exe
+C:\Users\temit\source\repos\FlashProw\FlashProw\bin\Release\FlashProw.pdb
+C:\Users\temit\source\repos\FlashProw\FlashProw\obj\Release\FlashProw.FormAdd.resources
+C:\Users\temit\source\repos\FlashProw\FlashProw\obj\Release\FlashProw.FormBase.resources
+C:\Users\temit\source\repos\FlashProw\FlashProw\obj\Release\FlashProw.MainForm.resources
+C:\Users\temit\source\repos\FlashProw\FlashProw\obj\Release\FlashProw.FormText.resources
+C:\Users\temit\source\repos\FlashProw\FlashProw\obj\Release\FlashProw.Properties.Resources.resources
+C:\Users\temit\source\repos\FlashProw\FlashProw\obj\Release\FlashProw.csproj.GenerateResource.cache
+C:\Users\temit\source\repos\FlashProw\FlashProw\obj\Release\FlashProw.csproj.CoreCompileInputs.cache
+C:\Users\temit\source\repos\FlashProw\FlashProw\obj\Release\FlashProw.exe
+C:\Users\temit\source\repos\FlashProw\FlashProw\obj\Release\FlashProw.pdb
